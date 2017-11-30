@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/dondoduy/TokenSaleDashboard.png?columns=all)](https://waffle.io/dondoduy/TokenSaleDashboard?utm_source=badge)
 # Tokensale Dashboard
 
 ![This is an implementation of the Proof Tokensale utilizing the code found in this repository.  You can see it at work at app.prooftokensale.com](https://i.imgur.com/dPlB05G.png)
